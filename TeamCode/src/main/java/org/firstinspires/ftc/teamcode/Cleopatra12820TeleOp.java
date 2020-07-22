@@ -42,7 +42,7 @@ import com.qualcomm.robotcore.util.Range;
  Tinoco's starting working code, I named the robot Cleopatra.
  */
 
-@TeleOp(name="Basic: Linear OpMode for 1019-2020 Season", group="Linear Opmode")
+@TeleOp(name="Basic: Linear OpMode for 2019-2020 Season", group="Linear Opmode")
 //@Disabled
 public class Cleopatra12820TeleOp extends LinearOpMode {
 
